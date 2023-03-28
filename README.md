@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning full stack
 - 💞️ I am looking to collaborate in helping whoever needs it
 - 📫 You can talk with me here
-
